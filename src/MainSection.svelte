@@ -31,10 +31,10 @@
         <AboutSection />
       {:else if $passPhrase === "Contact"}
         <ContactSection />
-      {:else if $passPhrase === "News"}
-        <NewsSection />
-      {:else}
+      {:else if $passPhrase === "Home"}
         <HomeSection />
+      {:else}
+        <NewsSection />
       {/if}
     </Col>
   </Row>
