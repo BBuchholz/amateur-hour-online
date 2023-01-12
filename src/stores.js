@@ -7,4 +7,4 @@ import {
 	// derived, 
 } from 'svelte/store';
 
-export const passPhrase = writable('Home');
+export const passPhrase = writable('News');
