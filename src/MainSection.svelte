@@ -17,6 +17,8 @@
   import NewsSection from './NewsSection.svelte';
   import HomeSection from './HomeSection.svelte';
  
+  
+
 </script>
 
 
